@@ -1,0 +1,20 @@
+.text-justify {
+  text-align: justify; }
+
+.card:hover {
+  opacity: 0.7; }
+
+.card-text {
+  text-align: justify; }
+
+body {
+  background: #076585;
+  background: -webkit-linear-gradient(to right, #fff, #076585);
+  background: linear-gradient(to right, #fff, #076585); }
+
+.titulo {
+  margin: 10px auto;
+  text-align: center; }
+
+.imagenes {
+  width: 500px; }
